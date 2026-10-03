@@ -169,3 +169,9 @@ not yet established.
 Digital Earth Africa (`s2_l2a`, `ls8_sr`, `ls9_sr`, `s1_rtc`), the Copernicus
 Data Space Ecosystem, and the Alaska Satellite Facility. All open, all free, no
 account required for the catalogue queries used here.
+
+## Licences
+
+Code is licensed under the Apache License 2.0 ([LICENSE](LICENSE)). The figures in `figures/` and the findings in `findings/` are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); please credit Peter Tinashe Mundowa.
+
+Contains modified Copernicus Sentinel data (2021 to 2026). Landsat data courtesy of the U.S. Geological Survey. Accessed through Digital Earth Africa.
